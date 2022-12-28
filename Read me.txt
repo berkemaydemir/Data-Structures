@@ -1,0 +1,8 @@
+Includes:
+Stack
+Queue
+List
+Decision_Tree
+Hash
+
+	You can add, delete, display, show how many, delete all elements.
